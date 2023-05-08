@@ -1,0 +1,5 @@
+kafka-python
+kink
+minio
+elastic-transport
+elasticsearch

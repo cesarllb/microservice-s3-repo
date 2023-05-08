@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: core
+Version: 0.1.0
+Summary: El core del proyecto brainssys.databrain
+Author: Cesar Linares
+Author-email: cesarllb@estudiantes.uci.cu
+License: BSD 2-clause
+Classifier: Development Status :: 1 - Planning
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.10
