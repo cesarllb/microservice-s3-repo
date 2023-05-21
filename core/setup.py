@@ -5,7 +5,7 @@ setup(
     version='0.1.0',    
     description='El core del proyecto brainssys.databrain',
     author='Cesar Linares',
-    author_email='cesarllb@estudiantes.uci.cu',
+    author_email='cesar98.linares@gmail.com',
     license='BSD 2-clause',
     packages=['core'],
     install_requires=['kafka-python',
