@@ -1,4 +1,4 @@
-# Neuroscience data storage and management microservices subsystem for the BrainSSys platform.
+# Neuroscience data storage and management microservices subsystem.
 The neurodata management process starts once the administrator obtains the information of new images to be added, a group to be modified or a group to be deleted. All operations will be recorded in a log file that keeps the history of all changes made.
 The administrator is in charge of selecting the specific bucket in which the neurodata should be stored and the name under which he/she wants to store it as a MinIO object. This operation is performed by creating an event in Kafka. This event is handled by a handler module that processes the event, indexes the object's metadata and inserts the neurodata into MinIO.
 
